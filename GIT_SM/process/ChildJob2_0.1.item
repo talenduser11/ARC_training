@@ -112,7 +112,7 @@
     <routinesParameter id="_KBxnoGQzEeic2dq4y5C6Cg" name="DqStringHandling"/>
     <routinesParameter id="_KICnsGQzEeic2dq4y5C6Cg" name="DQTechnical"/>
   </parameters>
-  <node componentName="tRowGenerator" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="256" posY="128">
+  <node componentName="tRowGenerator" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="224" posY="128">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tRowGenerator_1" show="false"/>
     <elementParameter field="TEXT" name="NB_ROWS" value="1" show="false"/>
     <elementParameter field="TABLE" name="VALUES" show="false">
